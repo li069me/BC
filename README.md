@@ -1,5 +1,3 @@
-# BC
-Modelovanie tém v úlohách detekcie antisociálneho správania na webe
 # MODELOVANIE TÉM V ÚLOHÁCH DETEKCIE ANTISOCIÁLNEHO SPRÁVANIA NA WEBE
 
 Tento projekt porovnáva adaptívny a statický Random Forest pri klasifikácii textových dát v dátovom prúde. Súčasťou riešenia je aj detekcia concept driftu pomocou ADWIN a následná tematická analýza textov pomocou LDA.
